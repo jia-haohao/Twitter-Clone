@@ -2,6 +2,7 @@ body {
   color: darkgray;
   font-size: 28px;
   background-color: bisque;
+  height: 100%;
 }
 
 h1 {
@@ -14,3 +15,7 @@ td {
   color:darkorchid;
 }
 
+.link-btn {
+  font-size: 18px;
+  color:brown;
+}
