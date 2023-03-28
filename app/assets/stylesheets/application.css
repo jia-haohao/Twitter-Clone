@@ -2,7 +2,11 @@ body {
   color: darkgray;
   font-size: 28px;
   background-color: bisque;
-  height: 100%;
+  height: 100vh;
+}
+
+.container {
+  position: relative;
 }
 
 h1 {
@@ -18,4 +22,10 @@ td {
 .link-btn {
   font-size: 18px;
   color:brown;
+}
+
+.footer-wrapper {
+  width: 100%;
+  position: absolute;
+  bottom: 0px;
 }
